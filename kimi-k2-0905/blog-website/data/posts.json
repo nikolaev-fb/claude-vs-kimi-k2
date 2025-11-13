@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "getting-started-with-nextjs",
+    "title": "Getting Started with Next.js",
+    "url": "/posts/getting-started-with-nextjs",
+    "short-description": "Learn the basics of Next.js and how to build modern web applications",
+    "date": "2025-11-13T14:00:00Z"
+  },
+  {
+    "slug": "react-hooks-best-practices",
+    "title": "React Hooks Best Practices",
+    "url": "/posts/react-hooks-best-practices",
+    "short-description": "Essential patterns and practices for using React Hooks effectively",
+    "date": "2025-11-13T14:00:00Z"
+  },
+  {
+    "slug": "javascript-array-methods",
+    "title": "JavaScript Array Methods You Should Know",
+    "url": "/posts/javascript-array-methods",
+    "short-description": "A comprehensive guide to essential JavaScript array methods",
+    "date": "2025-11-13T14:00:00Z"
+  }
+]
