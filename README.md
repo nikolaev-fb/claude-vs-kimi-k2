@@ -1,6 +1,7 @@
 # Claude Code vs Kimi-K2: Agentic Coding Comparison
 
 This repository contains the results of an experimental comparison between Claude Code (using Claude Sonnet) and Kimi-K2 models connected to Claude Code through a custom proxy server.
+See my blog post [here](https://ai-practice.hashnode.dev/using-claude-code-with-kimi-k2-real-world-experiment)
 
 ## Experiment Overview
 
